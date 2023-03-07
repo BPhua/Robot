@@ -1,3 +1,8 @@
+## Startup:
+`python Main.py`
+
+## Testing:
+`python Test.py`
 
 ## Given that:
 - Dimensions of grid are 10 by 10
